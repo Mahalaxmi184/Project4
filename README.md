@@ -12,7 +12,7 @@ This project involves analyzing student results using Python. The goal is to pro
 - Exporting Results
 
 ## Datasets
-The datasets used in this project are in CSV format. They contain information about student scores across different subjects, along with metadata such as Parents maritial status, ParentsEducation details, and demographic details.
+The datasets used in this project are in CSV format. They contain information about student scores across different subjects, along with metadata such as Parents maritial status, ParentsEducation details, and etc demographic details.
 
 ## Prerequisites
 - Python 3.x
